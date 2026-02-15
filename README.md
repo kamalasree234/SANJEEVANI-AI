@@ -2,6 +2,7 @@
 
 🚑 Sanjeevani AI
 Smartphone-Based Emergency Response System
+
 📌 Overview
 
 Sanjeevani AI is a real-time emergency response platform that uses smartphone sensors to automatically detect accidents and trigger immediate assistance.
